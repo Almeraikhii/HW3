@@ -137,4 +137,4 @@ public class EmailTestingAutomation {
 		System.out.printf("%-50s %s\n", "E-mail domain ends with alphanumeric character:", EmailRecognizer.domainEndAlphanumeric ? "Satisfied" : "Not satisfied");
 		System.out.printf("%-50s %s\n", "Contains \".\":", EmailRecognizer.dot ? "Satisfied" : "Not satisfied");
 	}
-}
+} // Trigger GitHub Actions
